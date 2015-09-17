@@ -224,8 +224,8 @@ return $suma;
 		
 		$currentses ="";
 		
-		#if(!isset($currentses[1])) {
-			if(1==1) {
+		if(!isset($currentses[1])) {
+			
 		$cube ["start"] ["x"] = 1;
 		$cube ["start"] ["y"] = 1;
 		$cube ["start"] ["z"] = 1;
