@@ -60,7 +60,7 @@ class CubesController extends AppController {
 			// echo "aaaaaaa<pre>"; print_r($this->Session->read('Rapcube')); echo "</pre>";
 			// SET DATA
 			#echo "<pre>"; print_r($_POST); echo "</pre>";
-			if ((isset ( $_POST ["data"] ["Rapcube"] ["type"] )) and ($_POST ["data"] ["Rapcube"] ["type"]==1)) {
+			if (($_POST ["data"] ["Rapcube"] ["type"]==1)) {
 				$parameterproc ["x"] = $_POST ["data"] ["Rapcube"] ["x"];
 				$parameterproc ["y"] = $_POST ["data"] ["Rapcube"] ["y"];
 				$parameterproc ["z"] = $_POST ["data"] ["Rapcube"] ["z"];
@@ -74,7 +74,7 @@ class CubesController extends AppController {
 			$this->Session->destroy();
 			};
 			// QUERY
-			if ((isset ( $_POST ["data"] ["Rapcube"] ["type"] )) and ($_POST ["data"] ["Rapcube"] ["type"]==2)) {
+			if (($_POST ["data"] ["Rapcube"] ["type"]==2)) {
 				
 				$is_valid_q = 1;
 				$faltantes="";
@@ -131,6 +131,7 @@ class CubesController extends AppController {
 					
 					$this->Session->write ( 'suma',$totalsuma);
 					$this->sumatot=$totalsuma;
+					#echo $this->sumatot;
 					$this->set('sumatot', $this->sumatot);
 					
 					 
@@ -202,7 +203,7 @@ class CubesController extends AppController {
 						$is_approved=0;
 					};
 					
-					if($is_approved==1){$suma = $suma+$zvalue; };	
+					if($is_approved==1){$suma = $suma+$zvalue;  };	
 						
 						
 						
@@ -211,7 +212,7 @@ class CubesController extends AppController {
 			}
 			
 		}
-		
+		 
 		
 return $suma;
 		
@@ -222,10 +223,11 @@ return $suma;
 		
 		$currentses = $this->sesiondata;
 		
-		$currentses ="";
-		
-		if(!isset($currentses[1])) {
-			
+		$currentses =$this->Session->read('Rapcube.1.1.1');
+		#echo $currentses;
+		if(!isset($currentses)) {
+		 
+		#	echo "new";
 		$cube ["start"] ["x"] = 1;
 		$cube ["start"] ["y"] = 1;
 		$cube ["start"] ["z"] = 1;
