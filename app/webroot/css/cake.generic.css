@@ -403,7 +403,7 @@ form .error-message {
 /** Notices and Errors **/
 .message {
 	clear: both;
-	color: #fff;
+	background-color: #ccc;
 	font-size: 140%;
 	font-weight: bold;
 	margin: 0 0 1em 0;

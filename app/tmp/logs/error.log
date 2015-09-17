@@ -1,0 +1,1367 @@
+2015-09-17 07:04:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:04:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 07:06:51 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:06:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:07:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:07:20 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:08:01 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:08:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 07:08:31 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:08:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:10:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:11:12 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:11:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:11:38 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:11:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:12:05 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:12:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:23:15 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:23:36 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:23:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:25:18 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:25:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:27:06 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:27:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:29:12 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:29:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:30:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 07:31:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:31:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:32:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 07:32:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:32:56 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:33:43 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:33:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:37:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:37:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:37:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:37:55 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:38:22 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:38:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:46:17 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:46:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:46:34 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:46:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:54:04 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:57:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 07:57:39 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 07:57:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:17:42 Error: Fatal Error (1): Call to undefined method CubesController::enableparamters() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 45]
+2015-09-17 08:17:42 Error: [FatalErrorException] Call to undefined method CubesController::enableparamters()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:18:30 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Utility\CakeText.php, line 235]
+2015-09-17 08:18:30 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 235)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 235, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 235, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:19:11 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:19:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:20:33 Error: Fatal Error (4): syntax error, unexpected 'Rapcube' (T_STRING) in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 67]
+2015-09-17 08:20:33 Error: [FatalErrorException] syntax error, unexpected 'Rapcube' (T_STRING)
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 67)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 67, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 67, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:20:46 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:20:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:23:29 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:23:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:25:28 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:25:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:28:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:28:27 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:28:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:28:48 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:36:58 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:36:58 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:39:29 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:39:29 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:39:30 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:39:30 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:20 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:20 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:22 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:22 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:22 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:22 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:22 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:22 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:23 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:23 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:23 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:23 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:23 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:23 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:23 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:23 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:23 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:23 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:24 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:24 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:40:51 Error: Fatal Error (1): Call to undefined method SessionComponent::flash() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 68]
+2015-09-17 08:40:51 Error: [FatalErrorException] Call to undefined method SessionComponent::flash()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 68, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 08:42:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+akeResponse))
+#1 {main}
+2015-09-17 08:42:59 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:44:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:44:16 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:44:34 Error: [MissingControllerException] Controller class Starter-template.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Starter-template.cssController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/starter-template.css
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:44:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:46:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 08:48:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:01:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:03:44 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:04:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:05:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:06:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:07:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:12:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:21:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:22:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:22:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:23:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:29:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:29:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:31:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:53:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:54:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:55:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:55:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:55:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:55:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:56:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:56:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:56:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:58:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:58:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:59:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:59:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:59:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 09:59:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:00:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:01:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:01:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:01:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:01:56 Error: Fatal Error (1): Call to undefined method CubesController::data() in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 48]
+2015-09-17 10:01:56 Error: [FatalErrorException] Call to undefined method CubesController::data()
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 48)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 48, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 48, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 10:03:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:03:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:03:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:04:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:04:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:05:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:05:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:05:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:06:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:06:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:06:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:07:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:07:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:07:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:08:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:08:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:14:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:15:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:15:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:16:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:17:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:18:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:18:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 10:28:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /rodrigocubeavi/js/ie-emulation-modes-warning.js
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-17 11:24:29 Error: Fatal Error (4): syntax error, unexpected '$cube' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 128]
+2015-09-17 11:24:29 Error: [FatalErrorException] syntax error, unexpected '$cube' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 11:25:17 Error: Fatal Error (4): syntax error, unexpected '$cube' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 128]
+2015-09-17 11:25:17 Error: [FatalErrorException] syntax error, unexpected '$cube' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 128, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 12:43:15 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [C:\xampp\htdocs\rodrigocubeavi\app\Controller\CubesController.php, line 178]
+2015-09-17 12:43:15 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use isse...', 'C:\\xampp\\htdocs...', 178)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', 'C:\\xampp\\htdocs...', 178, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', 'C:\\xampp\\htdocs...', 178, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 13:28:14 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Controller\Controller.php, line 437]
+2015-09-17 13:28:14 Error: [FatalErrorException] Cannot access empty property
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-09-17 13:28:43 Error: Fatal Error (1): Cannot access empty property in [C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Controller\Controller.php, line 437]
+2015-09-17 13:28:43 Error: [FatalErrorException] Cannot access empty property
+Request URL: /rodrigocubeavi/
+Stack Trace:
+#0 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437)
+#1 [internal function]: ErrorHandler::handleError(1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437, Array)
+#2 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Cannot access e...', 'C:\\xampp\\htdocs...', 437, Array)
+#3 C:\xampp\htdocs\rodrigocubeavi\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
